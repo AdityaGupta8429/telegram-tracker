@@ -3,7 +3,7 @@ import requests
 import asyncio
 
 api_id = 28813625
-api_hash = 792c04f8813f429d387ec93ba1a6332d
+api_hash = "792c04f8813f429d387ec93ba1a6332d"
 
 bot_token = 8597255898:AAGL4xY1V9LCQV13Gl7NwJNqXVUiLy2-054
 chat_id = 7283933799
