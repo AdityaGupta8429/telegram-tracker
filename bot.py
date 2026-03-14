@@ -2,13 +2,13 @@ from telethon import TelegramClient, events
 import requests
 import asyncio
 
-api_id = 28813625
+api_id = "28813625"
 api_hash = "792c04f8813f429d387ec93ba1a6332d"
 
-bot_token = 8597255898:AAGL4xY1V9LCQV13Gl7NwJNqXVUiLy2-054
-chat_id = 7283933799
+bot_token = "8597255898:AAGL4xY1V9LCQV13Gl7NwJNqXVUiLy2-054"
+chat_id = "7283933799"
 
-target = +91 88648 82499
+target = "+91 88648 82499"
 
 client = TelegramClient("session", api_id, api_hash)
 
